@@ -21,3 +21,7 @@ Breakfast: None
 Name: Tatty
 Transport: BTS
 Breakfast: Corn milk
+
+Name : Frosty
+Travel : BTS, Bikeman
+Breakfast : Sandwich
