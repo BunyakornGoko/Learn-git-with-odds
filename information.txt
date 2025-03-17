@@ -21,3 +21,7 @@ Breakfast: None
 Name: Tatty
 Transport: BTS
 Breakfast: Corn milk
+
+Name: Kan
+Travel: Motorcycle taxi
+Breakfast: Shrimp dumplings with roasted pork
