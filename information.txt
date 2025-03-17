@@ -21,3 +21,7 @@ Breakfast: None
 Name: Tatty
 Transport: BTS
 Breakfast: Corn milk
+
+My name is Fame
+Travel: MRT, Bike man
+Breakfast: Steamed eggs
